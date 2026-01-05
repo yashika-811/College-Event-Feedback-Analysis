@@ -2,7 +2,7 @@
 College events  and collect valuable student feedback. This project analyzes student satisfaction survey data to extract meaningful insights using data analytics and NLP techniques.  The goal is to understand student sentiment, satisfaction levels, and improvement areas to help institutions enhance future campus events and activities.
 
 
-Objectives
+#Objectives
 
 Analyze student satisfaction ratings (1–5 scale)
 
@@ -15,7 +15,7 @@ Identify key areas for improvement based on feedback
 Convert raw survey data into actionable insights
 
 
-Dataset
+#Dataset
 
 Source: Kaggle – Student Satisfaction Survey
 
@@ -26,7 +26,7 @@ Type: Rating-based + Textual feedback
 
 
 
-Tools & Technologies
+#Tools & Technologies
 
 Google Colab – Cloud-based notebook environment
 
@@ -38,7 +38,7 @@ matplotlib / seaborn – Data visualization
 
 TextBlob – Sentiment analysis (NLP)
 
-Key Tasks Performed
+#Key Tasks Performed
 
 ✔ Data cleaning and preprocessing
 ✔ Rating distribution analysis
@@ -46,7 +46,7 @@ Key Tasks Performed
 ✔ Visualization using charts and graphs
 ✔ Interpretation of feedback trends
 
-Visualizations Included
+#Visualizations Included
 
 Satisfaction rating distribution
 
@@ -56,7 +56,7 @@ Department-wise / category-wise satisfaction
 
 Feedback trend insights
 
-Sample Insights
+#Sample Insights
 
 Majority of students expressed positive sentiment toward events
 
